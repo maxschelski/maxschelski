@@ -1,6 +1,6 @@
 I am a neurobiology PhD Student and currently developing mathematical and computational models of neuronal cell biology - using mean field modeling of systems of partial differential equations and stochastic modeling. By training I am an experimental neurobiologist with more than 16 years of experience in programming.
 
-In the future I would like to develop computational models at the intersection of cell biology and computational neuroscience and also have a keen interest in AI & machine learning.
+In the future I would like to develop computational models at the intersection of cell biology and computational neuroscience. I also have a keen interest in AI & machine learning.
 
 
 <!--
