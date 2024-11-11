@@ -1,4 +1,6 @@
-I am a neurobiology PhD Student and currently developing mathematical models of neuronal cell biology - using mean field modeling of systems of partial differential equations and stochastic simulations. By training I am an experimental neurobiologist with more than 16 years of experience in programming and 10 years of experience in live-cell-imaging of neurons.
+I am a neurobiology PhD Student and currently developing mathematical models of neuronal cell biology - using mean field modeling of systems of partial differential equations and stochastic simulations. 
+
+By training I am an experimental neurobiologist with more than 16 years of experience in programming and 10 years of experience in live-cell-imaging of neurons.
 
 For my PostDoc I will develop mathematical models of the cell biology underlying synaptic plasticity.
 
