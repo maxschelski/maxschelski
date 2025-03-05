@@ -1,4 +1,4 @@
-I am a neurobiology PostDoc and currently developing mathematical models of neuronal cell biology. 
+I am a neurobiology PostDoc and currently developing mathematical models of neuronal cell biology underlying synaptic plasticity. 
 
 By training I am an experimental neurobiologist with more than 16 years of experience in programming and 10 years of experience in live-cell imaging of neurons.
 
