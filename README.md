@@ -1,6 +1,8 @@
-I am a PostDoc in computational neuroscience in the group of Tatjana Tchumatchenko and currently developing mathematical models of neuronal cell biology underlying synaptic plasticity. 
+I am working in computational neuroscience in the group of Tatjana Tchumatchenko and currently developing mathematical models of neuronal cell biology underlying synaptic plasticity.
 
-By training I am an experimental neurobiologist with more than 16 years of experience in programming and 8 years of experience in live-cell imaging of neurons.
+For my PhD I worked in the group of Frank Bradke on microtubule dynamics during neurodevelopment.
+
+I have more than 16 years of experience in programming and 8 years of experience in live-cell imaging of neurons.
 
 <!--
 **maxschelski/maxschelski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
