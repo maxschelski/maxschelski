@@ -1,4 +1,4 @@
-I am working in computational neuroscience in the group of Tatjana Tchumatchenko as a PostDoc and currently develop mathematical models of neuronal cell biology underlying synaptic plasticity.
+I am working in computational neuroscience in the group of Tatjana Tchumatchenko as a PostDoc and currently develop mathematical models of neuronal cell biology.
 
 For my PhD I worked in the group of Frank Bradke on microtubule dynamics during neurodevelopment.
 
